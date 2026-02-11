@@ -24,3 +24,6 @@ This project helps users manage daily tasks, goals, and focus sessions in one cl
 - CSS
 - JavaScript (DOM Manipulation)
 - LocalStorage API
+
+- <img width="1919" height="882" alt="preview" src="https://github.com/user-attachments/assets/709ca7ef-1125-44f0-8617-247d017f9345" />
+
