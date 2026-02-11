@@ -16,8 +16,6 @@ This project helps users manage daily tasks, goals, and focus sessions in one cl
 - 🎨 Theme Toggle (Light/Dark mode)
 - 💾 Data stored using LocalStorage
 
----
-
 🛠 Tech Stack
 
 - HTML5
